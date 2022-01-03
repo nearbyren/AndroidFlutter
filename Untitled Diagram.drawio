@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T08:47:16.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="f1o562mIoktMQEm947xA" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-03T08:47:24.454Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="wGJ1czJwN8WFuzhU7yAd" version="16.1.0" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="2526" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MTaYHc9d6E_w-VhPbMXi-15" value="一键登录" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="310" width="130" height="80" as="geometry" />
+          <mxGeometry x="290" y="300" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MTaYHc9d6E_w-VhPbMXi-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TzPy7AYL4UuAphbqVqQZ-62" target="MTaYHc9d6E_w-VhPbMXi-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -142,10 +142,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MTaYHc9d6E_w-VhPbMXi-21" value="去页首" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="305" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="305" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MTaYHc9d6E_w-VhPbMXi-23" value="手机号码登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="465" width="120" height="60" as="geometry" />
+          <mxGeometry x="295" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eYpvQMOPuGCcLAQW_gBX-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.4;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TzPy7AYL4UuAphbqVqQZ-60" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
