@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T08:51:59.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="owEjerEQpSWIwKNXSYjX" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-03T08:53:38.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="mG2xG54CLbs-tMKcYClL" version="16.1.0" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="2526" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -768,6 +768,38 @@
             <mxPoint x="760" y="1000" as="sourcePoint" />
             <mxPoint x="810" y="950" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fMjQiQRAMIRR55F06jDx-101" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0.567;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TzPy7AYL4UuAphbqVqQZ-62" target="fMjQiQRAMIRR55F06jDx-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="550" as="sourcePoint" />
+            <mxPoint x="170" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMjQiQRAMIRR55F06jDx-102" value="我的钱包" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="150" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fMjQiQRAMIRR55F06jDx-103" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fMjQiQRAMIRR55F06jDx-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="710" as="sourcePoint" />
+            <mxPoint x="180" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMjQiQRAMIRR55F06jDx-106" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="fMjQiQRAMIRR55F06jDx-103">
+          <mxGeometry x="0.016" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMjQiQRAMIRR55F06jDx-105" value="暂未开放" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="150" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fMjQiQRAMIRR55F06jDx-107" value="Y" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fMjQiQRAMIRR55F06jDx-108">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="600" as="sourcePoint" />
+            <mxPoint x="310" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMjQiQRAMIRR55F06jDx-108" value="我的钱包" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="300" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
