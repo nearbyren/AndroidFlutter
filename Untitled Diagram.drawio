@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T11:50:18.768Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="5bwk3Kft4edQFv4TQK5X" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-06T11:52:58.808Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="RmdEJrtom5IGDy-6pHbz" version="16.2.2" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="3146" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1214,6 +1214,51 @@
         </mxCell>
         <mxCell id="bl2fZDLujq3eMoeeoRx_-18" value="上传行驶证照片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1500" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bl2fZDLujq3eMoeeoRx_-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bl2fZDLujq3eMoeeoRx_-18" target="bl2fZDLujq3eMoeeoRx_-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1500" y="1830" as="sourcePoint" />
+            <mxPoint x="-1450" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bl2fZDLujq3eMoeeoRx_-20" value="选择平台" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="1780" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bl2fZDLujq3eMoeeoRx_-21" value="滴滴/优步" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1650" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bl2fZDLujq3eMoeeoRx_-22" value="首汽约车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bl2fZDLujq3eMoeeoRx_-23" value="神州租车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bl2fZDLujq3eMoeeoRx_-24" value="其他用车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1260" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bl2fZDLujq3eMoeeoRx_-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bl2fZDLujq3eMoeeoRx_-20" target="bl2fZDLujq3eMoeeoRx_-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1770" y="1810" as="sourcePoint" />
+            <mxPoint x="-1720" y="1760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bl2fZDLujq3eMoeeoRx_-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="bl2fZDLujq3eMoeeoRx_-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1440" y="1860" as="sourcePoint" />
+            <mxPoint x="-1620" y="1950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bl2fZDLujq3eMoeeoRx_-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="bl2fZDLujq3eMoeeoRx_-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1440" y="1860" as="sourcePoint" />
+            <mxPoint x="-1490" y="2000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bl2fZDLujq3eMoeeoRx_-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bl2fZDLujq3eMoeeoRx_-20" target="bl2fZDLujq3eMoeeoRx_-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1410" y="1890" as="sourcePoint" />
+            <mxPoint x="-1600" y="1970" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
