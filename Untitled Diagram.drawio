@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T06:12:20.837Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="N9HjMyMC8I1yUcMlgzx7" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T06:18:27.606Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="IgHO78kduz3NOaScxYUo" version="16.2.2" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="3754" dy="1694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1511,7 +1511,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WH4uaq1b6SvArQ9T9FD_-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="WH4uaq1b6SvArQ9T9FD_-30" value="拍摄身份证上传认证" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="110" y="2790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WH4uaq1b6SvArQ9T9FD_-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WH4uaq1b6SvArQ9T9FD_-27" target="WH4uaq1b6SvArQ9T9FD_-32">
@@ -1564,6 +1564,15 @@
           <mxGeometry x="-0.1232" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WH4uaq1b6SvArQ9T9FD_-41" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WH4uaq1b6SvArQ9T9FD_-30" target="WH4uaq1b6SvArQ9T9FD_-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="3050" as="sourcePoint" />
+            <mxPoint x="170" y="2940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WH4uaq1b6SvArQ9T9FD_-42" value="等待认证结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="110" y="2910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
