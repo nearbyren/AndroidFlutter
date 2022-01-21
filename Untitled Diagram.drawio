@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T03:14:08.524Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="Oa8Ec1AmeitbtadP_z_7" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T06:48:30.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="P_SQSsUcDEVFYKXjEppQ" version="16.3.0" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="3754" dy="1694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3750" dy="1676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1654,33 +1654,42 @@
             <mxPoint x="-1220" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YeYs3sn1KQgjNly-zPS4-1" value="是否有&lt;br&gt;加油记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YeYs3sn1KQgjNly-zPS4-1" value="是否有&lt;br&gt;加油记录" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="367.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YeYs3sn1KQgjNly-zPS4-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YeYs3sn1KQgjNly-zPS4-1" target="fMjQiQRAMIRR55F06jDx-122">
+        <mxCell id="YeYs3sn1KQgjNly-zPS4-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YeYs3sn1KQgjNly-zPS4-1" target="fMjQiQRAMIRR55F06jDx-122" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1040" y="410" as="sourcePoint" />
             <mxPoint x="1090" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YeYs3sn1KQgjNly-zPS4-3" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YeYs3sn1KQgjNly-zPS4-2">
+        <mxCell id="YeYs3sn1KQgjNly-zPS4-3" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YeYs3sn1KQgjNly-zPS4-2" vertex="1" connectable="0">
           <mxGeometry x="0.15" y="-1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YeYs3sn1KQgjNly-zPS4-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YeYs3sn1KQgjNly-zPS4-1" target="YeYs3sn1KQgjNly-zPS4-5">
+        <mxCell id="YeYs3sn1KQgjNly-zPS4-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YeYs3sn1KQgjNly-zPS4-1" target="YeYs3sn1KQgjNly-zPS4-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="970" y="500" as="sourcePoint" />
             <mxPoint x="1080" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YeYs3sn1KQgjNly-zPS4-6" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YeYs3sn1KQgjNly-zPS4-4">
+        <mxCell id="YeYs3sn1KQgjNly-zPS4-6" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YeYs3sn1KQgjNly-zPS4-4" vertex="1" connectable="0">
           <mxGeometry x="0.2483" y="-2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YeYs3sn1KQgjNly-zPS4-5" value="不展示开通易plus会员" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="YeYs3sn1KQgjNly-zPS4-5" value="不展示开通易plus会员" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1090" y="455" width="160" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gcepuETtqngF0YJnJ7PC-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fMjQiQRAMIRR55F06jDx-109" target="gcepuETtqngF0YJnJ7PC-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="390" as="sourcePoint" />
+            <mxPoint x="470" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gcepuETtqngF0YJnJ7PC-2" value="可用的油站" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
